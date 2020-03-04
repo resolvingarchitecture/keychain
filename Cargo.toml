@@ -10,7 +10,7 @@ documentation = "https://github.com/resolvingarchitecture/keychain"
 repository = "https://github.com/resolvingarchitecture/keychain"
 publish = true
 readme = "README.md"
-keywords = ["keychain","generate-keychain","encryption","encrypt","decryption","decrypt","signature","sign","verify"]
+keywords = ["keychain","keyring","encryption","decryption","signature"]
 categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
